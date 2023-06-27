@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/login-react-typescript/static/js/main.e5e0a6bd.js",
+    "index.html": "/login-react-typescript/index.html",
+    "main.e5e0a6bd.js.map": "/login-react-typescript/static/js/main.e5e0a6bd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5e0a6bd.js"
+  ]
+}
